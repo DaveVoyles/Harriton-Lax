@@ -4,7 +4,10 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 
 **Head Coach:** Cassidy Higdon
 
-## 🚀 Quick Navigation
+## � External Resources
+*   **[Harriton Lacrosse Google Drive](https://drive.google.com/drive/folders/1n2IdLSXX8S94fFsfSs7C7jMZN_xdqY0g?usp=drive_link)** - Central repository for all legacy documents, scouting reports, and media.
+
+## �🚀 Quick Navigation
 
 ### 🏃 [Drill Catalog](drills/README.md)
 
