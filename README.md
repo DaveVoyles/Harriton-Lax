@@ -1,0 +1,42 @@
+# 🥍 Harriton Lacrosse Coaching Hub
+
+Welcome to the central coaching repository for the **Harriton High School Boy's Lacrosse** program in Rosemont, PA. This hub is designed to help our coaching staff organize strategies, player evaluations, and practice execution.
+
+**Head Coach:** Cassidy Higdon
+
+## 🚀 Quick Navigation
+
+### 🏃 [Drill Catalog](drills/README.md)
+
+Access our high-intensity, video-referenced drill library:
+
+```text
+drills/
+├── 3v2-to-4v3-drill.md
+├── salisbury-call-drill.md
+└── west-genny-drill.md
+```
+
+- [West Genny Drill](drills/west-genny-drill.md) - Continuous 3v2 fast breaks.
+- [3v2 to 4v3 Drill](drills/3v2-to-4v3-drill.md) - Integrative transition play.
+- [Salisbury Call Drill](drills/salisbury-call-drill.md) - 6v6 defensive slide and recovery.
+
+### 📋 [Practice & Game Planning](practice-plans/template.md)
+
+- **[Practice Plan Template](practice-plans/template.md)** - Structured daily schedule.
+- **[Game Plan Template](game-plans/template.md)** - Scouting reports and strategy keys.
+
+### 👥 [Player Management](players/roster.md)
+
+- **[Team Roster](players/roster.md)** - Player numbers and positions.
+- **[Player Evaluations](players/evaluations.md)** - Progress tracking and tryout notes.
+
+### 🧠 Strategic Foundations
+
+- **[Offensive Philosophy](offense/README.md)** - Spacing and ball movement.
+- **[Defensive Philosophy](defense/README.md)** - Communication and posture.
+- **[Playbook Placeholder](plays/README.md)** - Central hub for team-specific plays.
+
+---
+
+_Go Rams!_ 🐏
