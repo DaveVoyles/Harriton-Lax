@@ -18,6 +18,8 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [West Genny Drill](drills/west-genny-drill.md) - Continuous 3v2 fast breaks.
 - [3v2 to 4v3 Drill](drills/3v2-to-4v3-drill.md) - Integrative transition play.
 - [Salisbury Call Drill](drills/salisbury-call-drill.md) - 6v6 defensive slide and recovery.
+- [3-Man Weave](drills/3-man-weave.md) - Classic full-field transition passing.
+- [4-Point Shooting](drills/4-point-shooting.md) - High-rep shooting from primary dodge spots.
 - [Elite Wall Ball Routine](drills/elite-wall-ball-routine.md) – High-rep stick skills.
 - [Ultimate Scoring Drill](drills/ultimate-scoring-drill.md) – Finishing and deception.
 - [Durkin Defensive Footwork](drills/durkin-defensive-footwork.md) – Lateral mechanics.
