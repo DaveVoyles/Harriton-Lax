@@ -1,14 +1,12 @@
-# Defensive Philosophy
+# 🛡️ Defensive Strategy
 
-Outline our core defensive principles here.
+Principles of communication, individual mastery, and coordinated team defense.
 
-## 📓 Core Documents
+## 📋 Fundamentals
+- [3 Simple Defensive Concepts](3-simple-defensive-concepts.md) – Body, Stick, and Communication basics.
+- [On-Ball Defense Mechanics](on-ball-defense-mechanics.md) – V-holds, approach angles, and recovery.
 
-- **[Defense Rules](defense-rules.md)** - Communication and stick posture.
-- **[Ram Defense](ram-defense.md)** - Specific slide packages and set strategy.
-
-## Key Concepts
-
-- Communication
-- Slides and Recoveries
-- On-ball posture
+## 🧠 Advanced Mastery
+- [Close Defense Mastery](close-defense-mastery.md) – Defending the X, GLE discipline, and crease play.
+- [Ram Defense Strategy](ram-defense.md) – Program-specific defensive guidelines.
+- [Defense Rules](defense-rules.md) – The core 'laws' of the Harriton defense.
