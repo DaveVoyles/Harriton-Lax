@@ -6,7 +6,9 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 
 ## 🔗 External Resources
 
+- **[2026 Season Schedule](game-plans/2026-schedule.md)** - Local copy of the 2026 game dates and times.
 - **[MaxPreps Schedule & Stats](https://www.maxpreps.com/pa/rosemont/harriton-rams/lacrosse/schedule/)** - Official team schedule, roster, and season statistics.
+- **[DigitalSports Schedule](https://harritonrams.digitalsports.com/pages/schedule/ms.php?team_slug=boys-lacrosse)** - Live DigitalSports schedule updates.
 - **[Harriton Lacrosse Google Drive](https://drive.google.com/drive/folders/1n2IdLSXX8S94fFsfSs7C7jMZN_xdqY0g?usp=drive_link)** - Central repository for all legacy documents, scouting reports, and media.
 
 ## �🚀 Quick Navigation
