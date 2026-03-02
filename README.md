@@ -31,6 +31,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 ### 🧠 Strategic Foundations
 
 #### 🛡️ [Defensive Philosophy](defense/README.md)
+
 - [3 Simple Concepts](defense/3-simple-defensive-concepts.md) – Body, Stick, and Communication.
 - [On-Ball Mechanics](defense/on-ball-defense-mechanics.md) – Approach and recovery.
 - [Close Defense Mastery](defense/close-defense-mastery.md) – Crease and GLE discipline.
@@ -38,12 +39,14 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Goalie Training](defense/goalie-training.md) – Save mechanics and clearing.
 
 #### 🏹 [Offensive Philosophy](offense/README.md)
+
 - [Dodging Essentials](offense/dodging-essentials-basics.md) – Split, roll, and face dodging.
 - [Shooting Mechanics](offense/shooting-mechanics-basics.md) – Power and release points.
 - [2-Man Game](offense/mastering-the-2-man-game.md) – Pick and roll mastery.
 - [Zone Beaters](offense/how-to-beat-zone-defense.md) – Dismantling defensive shells.
 
 #### ⚔️ [Special Teams & Adjustments](plays/special-teams.md)
+
 - [Special Teams Strategy](plays/special-teams.md) – EMO (Man-Up) and MDD (Man-Down).
 - [Game Adjustments Playbook](game-plans/adjustments-playbook.md) – Tactical if/then solutions.
 

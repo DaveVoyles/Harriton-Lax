@@ -24,14 +24,17 @@ This guide covers the fundamental mechanics of a high-level lacrosse shot. It fo
 ## 🏃 Execution Principles
 
 ### Phase 1: The Wind-Up
+
 - Reach the stick back, away from the body.
 - Step toward the target with the lead foot.
 
 ### Phase 2: The Rotation
+
 - Rotate hips and shoulders toward the goal.
 - Snap the wrists at the point of release.
 
 ### Phase 3: The Follow-Through
+
 - Finish the shot with the stick head pointing at the target.
 - Maintain balance after the release.
 
