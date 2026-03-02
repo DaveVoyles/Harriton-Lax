@@ -24,16 +24,11 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - **[Practice Plan Template](practice-plans/template.md)** - Structured daily schedule.
 - **[Game Plan Template](game-plans/template.md)** - Scouting reports and strategy keys.
 
-### 👥 [Player Management](players/roster.md)
-
-- **[Team Roster](players/roster.md)** - Player numbers and positions.
-- **[Player Evaluations](players/evaluations.md)** - Progress tracking and tryout notes.
-
 ### 🧠 Strategic Foundations
 
 - **[Offensive Philosophy](offense/README.md)** - Spacing and ball movement.
 - **[Defensive Philosophy](defense/README.md)** - Communication and posture.
-- **[Playbook Placeholder](plays/README.md)** - Central hub for team-specific plays.
+- **[Special Teams Strategy](plays/special-teams.md)** - Man-Up (EMO) and Man-Down (MDD) plans.
 
 ---
 
