@@ -55,3 +55,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 ---
 
 _Go Rams!_ 🐏
+
+#### 🤼 [Face-off & Special Teams](plays/face-off-wing-play.md)
+- [Face-off Wing Play](plays/face-off-wing-play.md) – Strategic positioning at the draw.
+- [Clearing Patterns](defense/clearing-patterns.md) – Goalie-to-midfield transition lanes.
