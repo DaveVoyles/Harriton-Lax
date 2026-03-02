@@ -30,9 +30,22 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 
 ### 🧠 Strategic Foundations
 
-- **[Offensive Philosophy](offense/README.md)** - Spacing and ball movement.
-- **[Defensive Philosophy](defense/README.md)** - Communication and posture.
-- **[Special Teams Strategy](plays/special-teams.md)** - Man-Up (EMO) and Man-Down (MDD) plans.
+#### 🛡️ [Defensive Philosophy](defense/README.md)
+- [3 Simple Concepts](defense/3-simple-defensive-concepts.md) – Body, Stick, and Communication.
+- [On-Ball Mechanics](defense/on-ball-defense-mechanics.md) – Approach and recovery.
+- [Close Defense Mastery](defense/close-defense-mastery.md) – Crease and GLE discipline.
+- [Ram Defense](defense/ram-defense.md) – Program-specific recovery rules.
+- [Goalie Training](defense/goalie-training.md) – Save mechanics and clearing.
+
+#### 🏹 [Offensive Philosophy](offense/README.md)
+- [Dodging Essentials](offense/dodging-essentials-basics.md) – Split, roll, and face dodging.
+- [Shooting Mechanics](offense/shooting-mechanics-basics.md) – Power and release points.
+- [2-Man Game](offense/mastering-the-2-man-game.md) – Pick and roll mastery.
+- [Zone Beaters](offense/how-to-beat-zone-defense.md) – Dismantling defensive shells.
+
+#### ⚔️ [Special Teams & Adjustments](plays/special-teams.md)
+- [Special Teams Strategy](plays/special-teams.md) – EMO (Man-Up) and MDD (Man-Down).
+- [Game Adjustments Playbook](game-plans/adjustments-playbook.md) – Tactical if/then solutions.
 
 ---
 
