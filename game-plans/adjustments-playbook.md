@@ -11,3 +11,11 @@
 ## 📋 Situation: Opponent is Dominating FO
 - **Fix:** Shift to a '10-Man Ride' to disrupt the clear.
 - **Fix:** Wing play focus: pinch and pop recovery.
+
+## 📋 Situation: Opponent is Shutting Down [Dodge Initiator]
+- **Fix:** Use off-ball picks (Mumbo) to free up the target.
+- **Fix:** Transition to a [2-Man Game](../offense/mastering-the-2-man-game.md) invert at ‘X’.
+
+## 📋 Situation: Our Defense is Getting Beat 1v1 Top-Side
+- **Fix:** Shift to a [3-3 Zone Defense](../defense/README.md) flat-shell.
+- **Fix:** Adjust slide timing to 'Immediate' (Committed) rather than 'Read'.
