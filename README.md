@@ -12,15 +12,6 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 
 ### 🏃 [Drill Catalog](drills/README.md)
 
-Access our high-intensity, video-referenced drill library:
-
-```text
-drills/
-├── 3v2-to-4v3-drill.md
-├── salisbury-call-drill.md
-└── west-genny-drill.md
-```
-
 - [West Genny Drill](drills/west-genny-drill.md) - Continuous 3v2 fast breaks.
 - [3v2 to 4v3 Drill](drills/3v2-to-4v3-drill.md) - Integrative transition play.
 - [Salisbury Call Drill](drills/salisbury-call-drill.md) - 6v6 defensive slide and recovery.
