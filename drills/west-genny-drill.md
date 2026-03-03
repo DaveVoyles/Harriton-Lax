@@ -25,6 +25,26 @@ The primary purpose of this drill is to teach players how to handle fast-paced t
   - **Goalies:** One in each net.
 - **Starting Positions:** Three offensive players start at midfield with a ball, attacking two defenders in the defensive zone.
 
+### 🗺️ Visual Map
+
+```text
+                 (MIDFIELD)
+      O-line      O-line      O-line
+       O           O           O
+       |           |           |
+       |           |           |
+       v           v           v
+
+             (3v2 fast break)
+                 O   O   O
+                   \ | /
+                    \|/
+                    D D
+                   [ G ]
+
+  After the rep: shooter exits; the other 2 O become the next 2 D.
+```
+
 ## 🏃 Execution
 
 1. **The Attack:** Three offensive players push the ball downfield to attack the two defenders in a 3v2 situation.

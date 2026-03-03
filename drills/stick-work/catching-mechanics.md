@@ -15,6 +15,17 @@ Improve catching consistency by training soft hands, stick presentation, and eye
 - Start 10–12 yards apart; progress to 15–20.
 - Optional: cones to mark passing lanes.
 
+🗺️ **Visual Map**
+
+```text
+   A (pass)                                 B (catch)
+
+   stick up/out  ----->  o  ----->  stick up/out
+    (target)                          (target)
+
+   Key: eyes track ball → “give” into pocket → stick to the box.
+```
+
 🏃 **Execution**
 
 1. **Target + track (20 catches each)**

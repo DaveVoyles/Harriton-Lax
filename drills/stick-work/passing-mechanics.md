@@ -9,6 +9,17 @@
 - Players pair up and stand 10-15 yards apart.
 - Each pair has one ball.
 
+**🗺️ Visual Map:**
+
+```text
+    Partner A (passer)        10–15y         Partner B (receiver)
+
+         [hands up]  ---- pass ---->  [hands up]
+                \_ stick target      stick target _/
+
+    Coaching cue: show target early + step to target.
+```
+
 **Execution:**
 1.  **Grip:** Top hand is roughly halfway down the shaft, bottom hand is at the butt-end.
 2.  **Stance:** Body is perpendicular to the target, with the front shoulder pointing towards the partner.

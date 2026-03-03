@@ -25,6 +25,24 @@ The primary purpose of this drill is to teach players how to handle multi-phase 
   - **Goalie:** One in the net.
 - **Starting Positions:** The coach starts with a ball to initiate Phase 1 (3v2).
 
+### 🗺️ Visual Map
+
+```text
+  Phase 1 (3v2)
+     O  O  O
+      \ | /
+        D D
+       [ G ]
+
+  Phase 2 (4v3)  (new ball in immediately)
+     O  O  O  O
+       \ | | /
+         D D D
+        [ G ]
+
+  Coaching cue: spacing first, then dodge/draw, then skip.
+```
+
 ## 🏃 Execution
 
 ### Phase 1: The 3v2

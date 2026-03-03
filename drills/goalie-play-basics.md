@@ -17,6 +17,24 @@ Build consistent goalie fundamentals: ready stance, angle play, stepping to the 
 - Cones on both pipes and top-center (optional).
 - Start at 8–12 yards for mechanics; back up as technique holds.
 
+🗺️ **Visual Map (Angle + Arc in the Crease)**
+
+```text
+                  (shooter up top)
+                           O
+                           |
+                           |
+       left pipe  [===== G =====]  right pipe
+                         \    |    /
+                           \   |   /
+                            \  |  /
+                              \ | /
+                               \|/
+
+   Goalie moves on an arc to stay centered on the ball.
+   Cue: square shoulders/hips to the shooter.
+```
+
 🏃 **Execution**
 
 1. **Ready stance check (10 reps)**

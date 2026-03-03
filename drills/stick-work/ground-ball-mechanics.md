@@ -15,6 +15,21 @@ Train reliable ground balls with speed, body position, and immediate protection 
 - 1–2 lines; players go one at a time (or pairs for competition).
 - Optional: coach with a pad applying light pressure.
 
+🗺️ **Visual Map**
+
+```text
+   Line(s)
+    A  A  A
+    |  |  |
+    v  v  v
+
+   ----------------- lane -----------------
+    o   o    o   o   o   o   o   o   o
+   (GB)(GB) (GB)(GB)(GB)(GB)(GB)(GB)(GB)
+
+   Scoop through → 2 hard steps → stick to the box → outlet.
+```
+
 🏃 **Execution**
 
 1. **Solo mechanics (2 rounds)**
