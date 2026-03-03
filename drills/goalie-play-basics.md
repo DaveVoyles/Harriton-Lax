@@ -1,5 +1,7 @@
 # 🐐 GOALIE - Goalie Play Basics
 
+**Video Reference:** https://www.youtube.com/watch?v=7i1pPgYV_J8
+
 🎯 **Overview**
 Build consistent goalie fundamentals: ready stance, angle play, stepping to the ball, rebound control, and communication.
 

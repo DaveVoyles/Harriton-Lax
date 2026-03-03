@@ -1,5 +1,7 @@
 # 🎯 Ground Ball Mechanics (Run-Through Scoop)
 
+**Video Reference:** https://www.youtube.com/watch?v=eTT-dc_tZ-0
+
 🎯 **Overview**
 Train reliable ground balls with speed, body position, and immediate protection after the scoop.
 

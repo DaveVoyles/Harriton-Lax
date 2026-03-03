@@ -1,5 +1,7 @@
 # 🎯 Catching Mechanics (Partner Passing)
 
+**Video Reference:** https://www.youtube.com/watch?v=w8TsIB95aII
+
 🎯 **Overview**
 Improve catching consistency by training soft hands, stick presentation, and eye discipline.
 
