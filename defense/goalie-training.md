@@ -3,7 +3,7 @@
 **🎯 Overview:** High-level training for goalies focusing on reaction time, footwork, and clearing accuracy.
 
 ## 🏋️ Skills & Stick Work
-- [Elite Wall Ball Routine](../drills/elite-wall-ball-routine.md) – Goalie-specific routine: top-hand only and cross-body saves.
+- [Elite Wall Ball Routine](../drills/stick-work/elite-wall-ball-routine.md) – Goalie-specific routine: top-hand only and cross-body saves.
 - **Reaction Drills:** Use tennis balls for faster reaction training.
 
 ## 🏹 Save Mechanics

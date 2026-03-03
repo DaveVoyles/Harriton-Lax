@@ -7,10 +7,10 @@
 
 ### 🏃 Phase 1: Dynamic Warm-up (0:00 - 0:15)
 - Line drills with focus on over-the-shoulder catches.
-- Goalies: [Elite Wall Ball Routine](../drills/elite-wall-ball-routine.md) variations.
+- Goalies: [Elite Wall Ball Routine](../drills/stick-work/elite-wall-ball-routine.md) variations.
 
 ### 🏋️ Phase 2: Technical Stickwork (0:15 - 0:35)
-- [One-Handed Stick Handling](../drills/one-handed-stick-handling.md) – Focus on protection during the clear.
+- [One-Handed Stick Handling](../drills/stick-work/one-handed-stick-handling.md) – Focus on protection during the clear.
 - 4-Corner Passing: Emphasis on lead passes and catching in stride.
 
 ### 🧠 Phase 3: Tactical Transition (0:35 - 1:05)

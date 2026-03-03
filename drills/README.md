@@ -4,11 +4,11 @@ A comprehensive collection of high-intensity, video-referenced lacrosse drills d
 
 ## 🏋️ Skills & Stick Work
 
-- [Elite Wall Ball Routine](elite-wall-ball-routine.md) – High-rep routine for soft hands and ambidexterity.
-- [One-Handed Stick Handling](one-handed-stick-handling.md) – Forearm strength and ball retention during contact.
-- [Catching Mechanics](catching-mechanics.md) – Soft hands, targets, and tracking.
-- [Cradling Mechanics](cradling-mechanics.md) – Ball security and carrying under pressure.
-- [Ground Ball Mechanics](ground-ball-mechanics.md) – Run-through scoop, protect, and exit.
+- [Elite Wall Ball Routine](stick-work/elite-wall-ball-routine.md) – High-rep routine for soft hands and ambidexterity.
+- [One-Handed Stick Handling](stick-work/one-handed-stick-handling.md) – Forearm strength and ball retention during contact.
+- [Catching Mechanics](stick-work/catching-mechanics.md) – Soft hands, targets, and tracking.
+- [Cradling Mechanics](stick-work/cradling-mechanics.md) – Ball security and carrying under pressure.
+- [Ground Ball Mechanics](stick-work/ground-ball-mechanics.md) – Run-through scoop, protect, and exit.
 
 ## 🏹 Offensive Drills
 

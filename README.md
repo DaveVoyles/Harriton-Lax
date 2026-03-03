@@ -20,15 +20,15 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Salisbury Call Drill](drills/salisbury-call-drill.md) - 6v6 defensive slide and recovery.
 - [3-Man Weave](drills/3-man-weave.md) - Classic full-field transition passing.
 - [4-Point Shooting](drills/4-point-shooting.md) - High-rep shooting from primary dodge spots.
-- [Elite Wall Ball Routine](drills/elite-wall-ball-routine.md) – High-rep stick skills.
+- [Elite Wall Ball Routine](drills/stick-work/elite-wall-ball-routine.md) – High-rep stick skills.
 - [Ultimate Scoring Drill](drills/ultimate-scoring-drill.md) – Finishing and deception.
 - [Durkin Defensive Footwork](drills/durkin-defensive-footwork.md) – Lateral mechanics.
-- [One-Handed Stick Handling](drills/one-handed-stick-handling.md) – Strength and protection.
-- [Passing Mechanics](drills/passing-mechanics.md) - Fundamental passing mechanics.
-- [Catching Mechanics](drills/catching-mechanics.md) - Soft hands and ball tracking.
-- [Ground Ball Mechanics](drills/ground-ball-mechanics.md) - Scooping and securing loose balls.
+- [One-Handed Stick Handling](drills/stick-work/one-handed-stick-handling.md) – Strength and protection.
+- [Passing Mechanics](drills/stick-work/passing-mechanics.md) - Fundamental passing mechanics.
+- [Catching Mechanics](drills/stick-work/catching-mechanics.md) - Soft hands and ball tracking.
+- [Ground Ball Mechanics](drills/stick-work/ground-ball-mechanics.md) - Scooping and securing loose balls.
 - [GOALIE - Goalie Play Basics](drills/goalie-play-basics.md) - Stance, saves, and communication.
-- [Cradling Mechanics](drills/cradling-mechanics.md) - Ball protection and control.
+- [Cradling Mechanics](drills/stick-work/cradling-mechanics.md) - Ball protection and control.
 
 ### 📋 [Practice & Game Planning](practice-plans/template.md)
 
@@ -62,7 +62,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 
 _Go Rams!_ 🐏
 
-#### 🤼 [Face-off & Special Teams](plays/face-off-wing-play.md)
+#### 🤼 [Face-off & Special Teams](plays/fundamentals/face-off-wing-play.md)
 
-- [Face-off Wing Play](plays/face-off-wing-play.md) – Strategic positioning at the draw.
+- [Face-off Wing Play](plays/fundamentals/face-off-wing-play.md) – Strategic positioning at the draw.
 - [Clearing Patterns](defense/clearing-patterns.md) – Goalie-to-midfield transition lanes.
