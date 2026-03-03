@@ -24,6 +24,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Ultimate Scoring Drill](drills/ultimate-scoring-drill.md) – Finishing and deception.
 - [Durkin Defensive Footwork](drills/durkin-defensive-footwork.md) – Lateral mechanics.
 - [One-Handed Stick Handling](drills/one-handed-stick-handling.md) – Strength and protection.
+- [Passing Mechanics](drills/passing-mechanics.md) - Fundamental passing mechanics.
 
 ### 📋 [Practice & Game Planning](practice-plans/template.md)
 
@@ -44,6 +45,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 
 - [Dodging Essentials](offense/dodging-essentials-basics.md) – Split, roll, and face dodging.
 - [Shooting Mechanics](offense/shooting-mechanics-basics.md) – Power and release points.
+- [How to Shoot Harder](offense/shooting-harder.md) - Full-body kinetic chain shooting.
 - [2-Man Game](offense/mastering-the-2-man-game.md) – Pick and roll mastery.
 - [Zone Beaters](offense/how-to-beat-zone-defense.md) – Dismantling defensive shells.
 
@@ -57,5 +59,6 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 _Go Rams!_ 🐏
 
 #### 🤼 [Face-off & Special Teams](plays/face-off-wing-play.md)
+
 - [Face-off Wing Play](plays/face-off-wing-play.md) – Strategic positioning at the draw.
 - [Clearing Patterns](defense/clearing-patterns.md) – Goalie-to-midfield transition lanes.
