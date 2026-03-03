@@ -25,6 +25,8 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Durkin Defensive Footwork](drills/durkin-defensive-footwork.md) – Lateral mechanics.
 - [One-Handed Stick Handling](drills/one-handed-stick-handling.md) – Strength and protection.
 - [Passing Mechanics](drills/passing-mechanics.md) - Fundamental passing mechanics.
+- [Catching Mechanics](drills/catching-mechanics.md) - Soft hands and ball tracking.
+- [Ground Ball Mechanics](drills/ground-ball-mechanics.md) - Scooping and securing loose balls.
 
 ### 📋 [Practice & Game Planning](practice-plans/template.md)
 
