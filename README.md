@@ -28,6 +28,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Catching Mechanics](drills/catching-mechanics.md) - Soft hands and ball tracking.
 - [Ground Ball Mechanics](drills/ground-ball-mechanics.md) - Scooping and securing loose balls.
 - [GOALIE - Goalie Play Basics](drills/goalie-play-basics.md) - Stance, saves, and communication.
+- [Cradling Mechanics](drills/cradling-mechanics.md) - Ball protection and control.
 
 ### 📋 [Practice & Game Planning](practice-plans/template.md)
 
