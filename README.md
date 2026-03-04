@@ -62,6 +62,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 
 - [10-Man Ride Strategy](rides-and-clears/10-man-ride.md) - Aggressive pressure system involving the goalie to lock down clearers.
 - [Riding Strategy](rides-and-clears/riding.md) - Defensive transition and pressure to prevent efficient clearing.
+- [Clearing Strategy](rides-and-clears/clearing.md) - Tactical bridge between defense and offense to break riding pressure.
 
 ---
 
@@ -70,7 +71,6 @@ _Go Rams!_ 🐏
 #### 🤼 [Face-off & Special Teams](plays/fundamentals/face-off-wing-play.md)
 
 - [Face-off Wing Play](plays/fundamentals/face-off-wing-play.md) – Strategic positioning at the draw.
-- [Clearing Patterns](defense/clearing-patterns.md) – Goalie-to-midfield transition lanes.
 
 ### 📖 [Defense Strategy Catalog](defense/README.md)
 
