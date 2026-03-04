@@ -74,6 +74,7 @@ _Go Rams!_ 🐏
 ### 📖 [Defense Strategy Catalog](defense/README.md)
 
 - [3-3 Zone Defense](defense/3-3-zone.md) - Layered pressure system to disrupt offensive flow and protect the crease.
+- [Defensive Sliding and Recovery](defense/sliding-and-recovery.md) - Mechanics of providing support to beaten on-ball defenders and rotations.
 #### 📊 [Game Planning & Scouting](game-plans/scouting-report.md)
 
 - [Opposition Scouting Report](game-plans/scouting-report.md) - Framework for analyzing and preparing for upcoming opponents.
