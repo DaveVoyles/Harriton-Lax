@@ -1,6 +1,6 @@
-# 🥍 Man-Down Defense (MDD) Principles
+# 🥍 5-Man Rotation: Man-Down Defense (MDD) Principles
 
-**Video Reference:** [Man-Down Defense Strategies & Communication](https://www.youtube.com/watch?v=OQN-m20q8Lw)
+**Video Reference:** [5-Man Rotation & MDD Strategies](https://www.youtube.com/watch?v=OQN-m20q8Lw)
 
 ## 🎯 Overview
 

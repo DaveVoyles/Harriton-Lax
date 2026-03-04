@@ -12,6 +12,10 @@ Principles of communication, individual mastery, and coordinated team defense.
 
 - [Goalkeeper Mastery](goalie-mastery.md) – Stance, saves, clearing, and communication.
 
+## 🛡️ Man-Down Defense
+
+- [5-Man Rotation](man-down/5-man-rotation.md) – Man-down rotation strategy for protecting the "house".
+
 ## 🧠 Advanced Mastery
 
 - [3-3 Zone Defense](3-3-zone.md) – Layered pressure system.
