@@ -79,6 +79,7 @@ _Go Rams!_ 🐏
 - [Ram Defense & Core Rules](defense/ram-defensive-principles.md) - Consolidated manual for the Ram defensive set and general defensive principles.
 - [Defensive Concepts & Roles](defense/defensive-concepts.md) - Fundamental defensive principles and personnel archetypes.
 - [Individual Defense Mastery](defense/videos-to-learn-from/individual-defense-mastery.md) - Breakdown of elite defensive footwork, checks, and positioning.
+- [Defensive Approach Angles](defense/defensive-approach-angles.md) - Strategies for closing space and neutralizing dodgers through geometry.
 
 #### 📊 [Game Planning & Scouting](game-plans/scouting-report.md)
 
