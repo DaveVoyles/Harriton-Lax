@@ -58,6 +58,10 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Special Teams Strategy](plays/special-teams.md) – EMO (Man-Up) and MDD (Man-Down).
 - [Game Adjustments Playbook](game-plans/adjustments-playbook.md) – Tactical if/then solutions.
 
+#### 🔄 [Rides and Clears](rides-and-clears/10-man-ride.md)
+
+- [10-Man Ride Strategy](rides-and-clears/10-man-ride.md) - Aggressive pressure system involving the goalie to lock down clearers.
+
 ---
 
 _Go Rams!_ 🐏
