@@ -77,6 +77,7 @@ _Go Rams!_ 🐏
 - [3-3 Zone Defense](defense/3-3-zone.md) - Layered pressure system to disrupt offensive flow and protect the crease.
 - [Defensive Sliding and Recovery](defense/sliding-and-recovery.md) - Mechanics of providing support to beaten on-ball defenders and rotations.
 - [Ram Defense & Core Rules](defense/ram-defensive-principles.md) - Consolidated manual for the Ram defensive set and general defensive principles.
+- [Defensive Concepts & Roles](defense/defensive-concepts.md) - Fundamental defensive principles and personnel archetypes.
 
 #### 📊 [Game Planning & Scouting](game-plans/scouting-report.md)
 
