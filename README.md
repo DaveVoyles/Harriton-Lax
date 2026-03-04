@@ -78,6 +78,7 @@ _Go Rams!_ 🐏
 - [Defensive Sliding and Recovery](defense/sliding-and-recovery.md) - Mechanics of providing support to beaten on-ball defenders and rotations.
 - [Ram Defense & Core Rules](defense/ram-defensive-principles.md) - Consolidated manual for the Ram defensive set and general defensive principles.
 - [Defensive Concepts & Roles](defense/defensive-concepts.md) - Fundamental defensive principles and personnel archetypes.
+- [Individual Defense Mastery](defense/videos-to-learn-from/individual-defense-mastery.md) - Breakdown of elite defensive footwork, checks, and positioning.
 
 #### 📊 [Game Planning & Scouting](game-plans/scouting-report.md)
 
