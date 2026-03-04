@@ -64,10 +64,6 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Riding Strategy](rides-and-clears/riding.md) - Defensive transition and pressure to prevent efficient clearing.
 - [Clearing Strategy](rides-and-clears/clearing.md) - Tactical bridge between defense and offense to break riding pressure.
 
----
-
-_Go Rams!_ 🐏
-
 #### 🤼 [Face-off & Special Teams](plays/fundamentals/face-off-wing-play.md)
 
 - [Face-off Wing Play](plays/fundamentals/face-off-wing-play.md) – Strategic positioning at the draw.
