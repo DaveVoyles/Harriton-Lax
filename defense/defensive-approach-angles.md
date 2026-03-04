@@ -24,14 +24,17 @@ The "approach" is the most critical second in a defensive possession. This strat
 ## 🏃 Execution Principles
 
 ### Phase 1: Closing Space
+
 - Recognize the ball carrier's movement and sprint to within 5 yards.
 - Begin the "breakdown" (short steps) to prepare for the dodge.
 
 ### Phase 2: Establishing the Seal
+
 - Position your body "topside" of the dodger.
 - Force the dodger's path toward the sideline or end-line, minimizing their shooting angle.
 
 ### Phase 3: Engagement & Steering
+
 - Maintain a stick-length of distance until the dodger commits to a direction.
 - Once the dodger is in the "alley," use your hands and hips to steer them away from the middle.
 
