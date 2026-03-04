@@ -3,10 +3,16 @@
 Principles of communication, individual mastery, and coordinated team defense.
 
 ## 📋 Fundamentals
-- [3 Simple Defensive Concepts](3-simple-defensive-concepts.md) – Body, Stick, and Communication basics.
-- [On-Ball Defense Mechanics](on-ball-defense-mechanics.md) – V-holds, approach angles, and recovery.
+- [Defensive Concepts & Roles](defensive-concepts.md) – Fundamental principles and personnel archetypes.
+- [Defensive Sliding and Recovery](sliding-and-recovery.md) – Support mechanics and rotations.
+- [On-Ball Defense Mechanics](on-ball-defense-mechanics.md) – V-holds and approach angles.
+
+## 🧤 Goalkeeping
+- [Goalkeeper Mastery](goalie-mastery.md) – Stance, saves, clearing, and communication.
 
 ## 🧠 Advanced Mastery
-- [Close Defense Mastery](close-defense-mastery.md) – Defending the X, GLE discipline, and crease play.
-- [Ram Defense Strategy](ram-defense.md) – Program-specific defensive guidelines.
-- [Defense Rules](defense-rules.md) – The core 'laws' of the Harriton defense.
+- [3-3 Zone Defense](3-3-zone.md) – Layered pressure system.
+- [Ram Defense & Core Rules](ram-defensive-principles.md) – Consolidated program-specific guidelines.
+
+## 🎥 Video Analysis
+- [Individual Defense Mastery](videos-to-learn-from/individual-defense-mastery.md) – Elite footwork and checks breakdown.

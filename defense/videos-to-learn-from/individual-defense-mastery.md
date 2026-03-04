@@ -24,14 +24,17 @@ This breakdown focuses on the elite individual mechanics required to become a lo
 ## 🏃 Execution Principles
 
 ### Phase 1: The Breakdown & Approach
+
 - Sprint to the dodger to close space, then "break down" with short steps as you enter a stick-length of distance.
 - Establish a lead foot to guide the dodger's path toward the desired defensive area.
 
 ### Phase 2: Engagement & Maintenance
+
 - Maintain "stick-length" distance. If you are too close, you get run past; if you are too far, the dodger has room to shoot or pass.
 - Focus on the dodger's hips, not their eyes or stick. The hips don't lie.
 
 ### Phase 3: The Recovery
+
 - If beaten, do not chase the stick. Sprint back to the "hole" (the middle/crease) and communicate with the slide package to reset.
 
 ## 🧠 Strategic Mindset

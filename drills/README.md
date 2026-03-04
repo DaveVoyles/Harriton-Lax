@@ -19,7 +19,7 @@ A comprehensive collection of high-intensity, video-referenced lacrosse drills d
 
 - [Durkin Defensive Footwork](durkin-defensive-footwork.md) – Pro-level breakdown and lateral shuffle mechanics.
 - [Salisbury Call Drill](salisbury-call-drill.md) – 6v6 slide and recovery communication.
-- [GOALIE - Goalie Play Basics](goalie-play-basics.md) – Stance, angle play, saves, and communication.
+- [GOALIE - Goalkeeper Mastery](../defense/goalie-mastery.md) – Stance, angle play, saves, and clearing.
 
 ## 🏃 Transition & Fast Breaks
 
