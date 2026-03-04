@@ -61,6 +61,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 #### 🔄 [Rides and Clears](rides-and-clears/10-man-ride.md)
 
 - [10-Man Ride Strategy](rides-and-clears/10-man-ride.md) - Aggressive pressure system involving the goalie to lock down clearers.
+- [Riding Strategy](rides-and-clears/riding.md) - Defensive transition and pressure to prevent efficient clearing.
 
 ---
 
