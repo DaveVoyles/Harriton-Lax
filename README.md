@@ -71,3 +71,6 @@ _Go Rams!_ 🐏
 
 - [Face-off Wing Play](plays/fundamentals/face-off-wing-play.md) – Strategic positioning at the draw.
 - [Clearing Patterns](defense/clearing-patterns.md) – Goalie-to-midfield transition lanes.
+### 📖 [Defense Strategy Catalog](defense/README.md)
+
+- [3-3 Zone Defense](defense/3-3-zone.md) - Layered pressure system to disrupt offensive flow and protect the crease.
