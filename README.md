@@ -29,6 +29,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Ground Ball Mechanics](drills/stick-work/ground-ball-mechanics.md) - Scooping and securing loose balls.
 - [GOALIE - Goalkeeper Mastery](defense/goalie-mastery.md) - Stance, saves, communication, and clearing.
 - [Cradling Mechanics](drills/stick-work/cradling-mechanics.md) - Ball protection and control.
+- [Point-Behind Passing & Shooting](drills/point-behind-passing-drill.md) - Timing and finishing from X.
 
 ### 📋 [Practice & Game Planning](practice-plans/template.md)
 
