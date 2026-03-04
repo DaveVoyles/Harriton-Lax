@@ -80,6 +80,7 @@ _Go Rams!_ 🐏
 - [Defensive Concepts & Roles](defense/defensive-concepts.md) - Fundamental defensive principles and personnel archetypes.
 - [Aidan Maguire SSDM Breakdown](defense/videos-to-learn-from/aidan-maguire-ssdm-breakdown.md) - Analysis of elite defensive footwork and positioning by Aidan Maguire.
 - [Defensive Approach Angles](defense/defensive-approach-angles.md) - Strategies for closing space and neutralizing dodgers through geometry.
+- [Man-Down Defense Principles](defense/man-down/man-down-principles.md) - MDD strategy for protecting the "house" and rotational discipline.
 
 #### 📊 [Game Planning & Scouting](game-plans/scouting-report.md)
 
