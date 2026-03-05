@@ -32,3 +32,7 @@ These link to the original source documents for in-depth study:
 ---
 
 _Refer to the Google Drive links above for the full technical documents._
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

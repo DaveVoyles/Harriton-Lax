@@ -55,3 +55,7 @@ On-ball defense is the foundation of a strong unit. This guide breaks down the e
 
 ---
 *Note: This synopsis is based on First Class Lacrosse principles.*
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

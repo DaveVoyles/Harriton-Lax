@@ -175,3 +175,7 @@ The goalie is the eyes of the defense. These calls are exclusive to or primarily
 ---
 
 _Communication is the cheapest, most effective defensive tool we have. It costs nothing and it changes everything. Be loud. Be early. Be constant._
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

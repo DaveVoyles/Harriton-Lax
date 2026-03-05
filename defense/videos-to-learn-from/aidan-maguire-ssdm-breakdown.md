@@ -54,3 +54,7 @@ This breakdown focuses on the elite individual mechanics required to become a lo
 - Drill "Approach to Breakdown" repetitively with 1v1 scenarios focusing only on footwork.
 - Emphasize "Short-Short-Long" stepping patterns during recovery sprints.
 - Reward defenders who maintain "topside" position over those who make flashy/risky checks.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

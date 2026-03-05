@@ -55,3 +55,7 @@ Defensive sliding and recovery is the backbone of any successful team defense. T
 - Drill the '4-man rotation' frequently to build muscle memory for slide-and-fill sequences.
 - Emphasize the 'sprint to the hole' recovery path for on-ball defenders.
 - Reward clear, loud communication during live 6v6 scenarios.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

@@ -50,3 +50,7 @@ The 3-3 Zone is a high-pressure defensive system designed to disrupt the opponen
 - Drill the 'layer transition' where the offense moves from high to low to test the hand-off between defenders.
 - Emphasize stick positioning to take away 'skip passes' through the 3-3 layers.
 - Ensure defenders understand they aren't 'chasing' but 'occupying' space relative to the ball.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

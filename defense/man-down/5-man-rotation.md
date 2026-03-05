@@ -55,3 +55,7 @@ Man-down defense (MDD) requires elite communication, discipline, and "string" lo
 - Drill the "4-man box" rotation repetitively without a ball to build muscle memory.
 - Emphasize "Sticks up!" during every live MDD scenario.
 - Reward defenders who maintain the formation over those who attempt "hero" plays.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

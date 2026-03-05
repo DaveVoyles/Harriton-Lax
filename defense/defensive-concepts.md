@@ -52,3 +52,7 @@ This defensive philosophy simplifies complex individual and team movements into 
 
 - **Don't Chase Sticks:** Focus on the body first.
 - **Stay Topside:** Giving up the topside lane gives the dodger a high-percentage shooting angle.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

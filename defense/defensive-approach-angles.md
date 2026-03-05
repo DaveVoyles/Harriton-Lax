@@ -55,3 +55,7 @@ The "approach" is the most critical second in a defensive possession. This strat
 - Drill the "Approach to X" where defenders must sprint to a cone and breakdown in a proper stance.
 - Use "Topside Seals" 1v1 drills focusing only on the first 3 steps of a dodge.
 - Cue: "Seal the middle, steer to the alley."
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._
