@@ -82,6 +82,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Game Adjustments Playbook](game-plans/adjustments-playbook.md) – Tactical if/then solutions.
 - [Halftime Adjustment Framework](game-plans/halftime-adjustment-framework.md) – Structured 10-minute halftime process.
 - [End-of-Game Situations](game-plans/end-of-game-situations.md) – Stalling, last possession, and clock management.
+- [Substitution & Line Management](game-plans/substitution-and-line-management.md) – Managing midfield rotations, sub-box protocols, and situational personnel.
 
 #### 🔄 [Rides and Clears](rides-and-clears/README.md)
 
