@@ -58,6 +58,8 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [How to Shoot Harder](offense/shooting-harder.md) - Full-body kinetic chain shooting.
 - [2-Man Game](offense/mastering-the-2-man-game.md) – Pick and roll mastery.
 - [Zone Beaters](offense/how-to-beat-zone-defense.md) – Dismantling defensive shells.
+- [Settled Offensive Sets](offense/settled-offensive-sets.md) – Named formations (1-4-1, 2-2-2, 1-3-2) with player roles and scoring options.
+- [Transition Offense Philosophy](offense/transition-offense-philosophy.md) – Push-or-settle reads, fast break lanes, and the secondary break window.
 
 #### ⚔️ [Special Teams & Adjustments](plays/special-teams.md)
 
@@ -80,6 +82,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Defensive Sliding and Recovery](defense/sliding-and-recovery.md) - Mechanics of providing support to beaten on-ball defenders and rotations.
 - [Ram Defense & Core Rules](defense/ram-defensive-principles.md) - Consolidated manual for the Ram defensive set and general defensive principles.
 - [Defensive Concepts & Roles](defense/defensive-concepts.md) - Fundamental defensive principles and personnel archetypes.
+- [Defensive Communication Glossary](defense/communication-glossary.md) - Complete reference of on-ball, slide, off-ball, and situational defensive calls.
 - [Aidan Maguire SSDM Breakdown](defense/videos-to-learn-from/aidan-maguire-ssdm-breakdown.md) - Analysis of elite defensive footwork and positioning by Aidan Maguire.
 - [Defensive Approach Angles](defense/defensive-approach-angles.md) - Strategies for closing space and neutralizing dodgers through geometry.
 - [5-Man Rotation (MDD)](defense/man-down/5-man-rotation.md) - Man-down defensive rotation strategy for protecting the "house".
