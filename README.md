@@ -32,25 +32,35 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Point-Behind Passing & Shooting](drills/point-behind-passing-drill.md) - Timing and finishing from X.
 - [1v1 Drill](drills/1v1-drill.md) - Fundamental 1v1 matchup drill from wing, top, and X positions.
 - [Face-Off Fundamentals](drills/face-off-fundamentals.md) - Stance, grip, clamp/plunger/rake techniques, and progressive drills.
+- [Elite Offensive Dodge & Shoot](drills/elite-offensive-dodge-shoot.md) – Dodging from the wing with stick protection and finishing.
+- [Goalie Play Basics](drills/goalie-play-basics.md) - Fundamental goalie stance, movement, and save drills.
 
-### 📋 [Practice & Game Planning](practice-plans/template.md)
+### 📋 [Practice & Game Planning](practice-plans/README.md)
 
 - **[Practice Plan Template](practice-plans/template.md)** - Structured daily schedule.
 - **[Game Plan Template](game-plans/template.md)** - Scouting reports and strategy keys.
 - **[Defense Focus Plan](practice-plans/defense-focus-plan.md)** - 120-minute practice emphasizing team defense, sliding, and communication.
 - **[Offense Focus Plan](practice-plans/offense-focus-plan.md)** - 120-minute practice building dodging, shooting, and 2-man game execution.
 - **[Game-Week Prep Plan](practice-plans/gameweek-prep-plan.md)** - 120-minute game-week practice with scout looks, special teams, and situational scrimmage.
+- **[Transition Focus Plan](practice-plans/transition-focus-plan.md)** - 120-minute practice developing transition offense, riding, and fast break execution.
+
+### 📖 [Glossary](glossary.md)
+
+- **[Lacrosse Glossary](glossary.md)** - Comprehensive reference of positions, field areas, dodge types, slide terminology, and offensive/defensive concepts.
 
 ### 🧠 Strategic Foundations
 
 #### 🛡️ [Defensive Philosophy](defense/README.md)
 
-- [3 Simple Concepts](defense/3-simple-defensive-concepts.md) – Body, Stick, and Communication.
+- [3 Simple Concepts](defense/defensive-concepts.md) – Body, Stick, and Communication.
 - [On-Ball Mechanics](defense/on-ball-defense-mechanics.md) – Approach and recovery.
 - [Close Defense Mastery](defense/close-defense-mastery.md) – Crease and GLE discipline.
-- [Ram Defense](defense/ram-defense.md) – Program-specific recovery rules.
-- [Goalie Training](defense/goalie-training.md) – Save mechanics and clearing.
+- [Ram Defense](defense/ram-defensive-principles.md) – Program-specific recovery rules.
+- [Goalie Training](defense/goalie-mastery.md) – Save mechanics and clearing.
 - [Defensive Communication Glossary](defense/communication-glossary.md) - Complete reference of on-ball, slide, off-ball, and situational defensive calls.
+- [Defensive Double Teams](defense/double-teams.md) - When to trap, how to rotate, and how to recover on double teams.
+- [Transition Defense](defense/transition-defense.md) – Getting back, matching up, and communicating in transition.
+- [Double Teams & Forced Turnovers](defense/double-teams.md) – When to trap, rotation principles, and recovery.
 
 #### 🏹 [Offensive Philosophy](offense/README.md)
 
@@ -61,13 +71,19 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Zone Beaters](offense/how-to-beat-zone-defense.md) – Dismantling defensive shells.
 - [Settled Offensive Sets](offense/settled-offensive-sets.md) – Named formations (1-4-1, 2-2-2, 1-3-2) with player roles and scoring options.
 - [Transition Offense Philosophy](offense/transition-offense-philosophy.md) – Push-or-settle reads, fast break lanes, and the secondary break window.
+- [Ball Movement Philosophy](offense/ball-movement-philosophy.md) – Patience, passing tempo, and the "one-more" principle for higher-percentage shots.
+- [Off-Ball Movement & Cutting](offense/off-ball-movement.md) – Cutting patterns, V-cuts, timing, and spacing principles.
+- [Ball Movement Philosophy](offense/ball-movement-philosophy.md) – Passing tempo, feeding, and the "one-more" principle.
+- [Advanced Offensive Sets](offense/advanced-offensive-sets.md) – Mumbo picks, invert concepts, and motion variations.
 
 #### ⚔️ [Special Teams & Adjustments](plays/special-teams.md)
 
 - [Special Teams Strategy](plays/special-teams.md) – EMO (Man-Up) and MDD (Man-Down).
 - [Game Adjustments Playbook](game-plans/adjustments-playbook.md) – Tactical if/then solutions.
+- [Halftime Adjustment Framework](game-plans/halftime-adjustment-framework.md) – Structured 10-minute halftime process.
+- [End-of-Game Situations](game-plans/end-of-game-situations.md) – Stalling, last possession, and clock management.
 
-#### 🔄 [Rides and Clears](rides-and-clears/10-man-ride.md)
+#### 🔄 [Rides and Clears](rides-and-clears/README.md)
 
 - [10-Man Ride Strategy](rides-and-clears/10-man-ride.md) - Aggressive pressure system involving the goalie to lock down clearers.
 - [Riding Strategy](rides-and-clears/riding.md) - Defensive transition and pressure to prevent efficient clearing.
@@ -76,6 +92,8 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 #### 🤼 [Face-off & Special Teams](plays/fundamentals/face-off-wing-play.md)
 
 - [Face-off Wing Play](plays/fundamentals/face-off-wing-play.md) – Strategic positioning at the draw.
+- [Dead-Ball Restarts](plays/fundamentals/dead-ball-restarts.md) – Endline and sideline restart plays.
+- [2026 Playbook](plays/playbook-2026.md) – Full season strategy document.
 
 ### 📖 [Defense Strategy Catalog](defense/README.md)
 
@@ -85,6 +103,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Defensive Concepts & Roles](defense/defensive-concepts.md) - Fundamental defensive principles and personnel archetypes.
 - [Aidan Maguire SSDM Breakdown](defense/videos-to-learn-from/aidan-maguire-ssdm-breakdown.md) - Analysis of elite defensive footwork and positioning by Aidan Maguire.
 - [Defensive Approach Angles](defense/defensive-approach-angles.md) - Strategies for closing space and neutralizing dodgers through geometry.
+- [Defensive Double Teams](defense/double-teams.md) - Executing traps, 4-man shell rotations, and recovery after doubles.
 - [5-Man Rotation (MDD)](defense/man-down/5-man-rotation.md) - Man-down defensive rotation strategy for protecting the "house".
 
 #### 📊 [Game Planning & Scouting](game-plans/scouting-report.md)
