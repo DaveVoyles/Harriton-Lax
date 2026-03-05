@@ -82,3 +82,4 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 #### 📊 [Game Planning & Scouting](game-plans/scouting-report.md)
 
 - [Opposition Scouting Report](game-plans/scouting-report.md) - Framework for analyzing and preparing for upcoming opponents.
+- [Wissahickon Playday Scouting Report](game-plans/wissahickon-scouting-report.md) - Pre-game preparation and self-scouting report for the Mar 7, 2026 season-opening playday.
