@@ -92,6 +92,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 #### 🤼 [Face-off & Special Teams](plays/fundamentals/face-off-wing-play.md)
 
 - [Face-off Wing Play](plays/fundamentals/face-off-wing-play.md) – Strategic positioning at the draw.
+- [Face-Off Strategy](plays/fundamentals/faceoff-strategy.md) – In-game face-off technique selection, wing coordination, and situational adjustments.
 - [Dead-Ball Restarts](plays/fundamentals/dead-ball-restarts.md) – Endline and sideline restart plays.
 - [2026 Playbook](plays/playbook-2026.md) – Full season strategy document.
 
