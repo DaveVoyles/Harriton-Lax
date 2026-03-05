@@ -58,6 +58,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Ram Defense](defense/ram-defensive-principles.md) – Program-specific recovery rules.
 - [Goalie Training](defense/goalie-mastery.md) – Save mechanics and clearing.
 - [Defensive Communication Glossary](defense/communication-glossary.md) - Complete reference of on-ball, slide, off-ball, and situational defensive calls.
+- [Transition Defense](defense/transition-defense.md) – Sprint-back recovery, inside-out matching, and communication to prevent fast break goals.
 - [Defensive Double Teams](defense/double-teams.md) - When to trap, how to rotate, and how to recover on double teams.
 - [Transition Defense](defense/transition-defense.md) – Getting back, matching up, and communicating in transition.
 - [Double Teams & Forced Turnovers](defense/double-teams.md) – When to trap, rotation principles, and recovery.
@@ -71,6 +72,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Zone Beaters](offense/how-to-beat-zone-defense.md) – Dismantling defensive shells.
 - [Settled Offensive Sets](offense/settled-offensive-sets.md) – Named formations (1-4-1, 2-2-2, 1-3-2) with player roles and scoring options.
 - [Transition Offense Philosophy](offense/transition-offense-philosophy.md) – Push-or-settle reads, fast break lanes, and the secondary break window.
+- [Off-Ball Movement](offense/off-ball-movement.md) – Purposeful cutting patterns, timing, and spacing to create scoring opportunities without the ball.
 - [Ball Movement Philosophy](offense/ball-movement-philosophy.md) – Patience, passing tempo, and the "one-more" principle for higher-percentage shots.
 - [Off-Ball Movement & Cutting](offense/off-ball-movement.md) – Cutting patterns, V-cuts, timing, and spacing principles.
 - [Ball Movement Philosophy](offense/ball-movement-philosophy.md) – Passing tempo, feeding, and the "one-more" principle.
@@ -80,6 +82,8 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 
 - [Special Teams Strategy](plays/special-teams.md) – EMO (Man-Up) and MDD (Man-Down).
 - [Game Adjustments Playbook](game-plans/adjustments-playbook.md) – Tactical if/then solutions.
+- [End-of-Game Situations](game-plans/end-of-game-situations.md) – Managing stall offense, last-possession plays, and late-game scenarios.
+- [Halftime Adjustment Framework](game-plans/halftime-adjustment-framework.md) – Structured 10-minute halftime routine for diagnosing and communicating adjustments.
 - [Halftime Adjustment Framework](game-plans/halftime-adjustment-framework.md) – Structured 10-minute halftime process.
 - [End-of-Game Situations](game-plans/end-of-game-situations.md) – Stalling, last possession, and clock management.
 
