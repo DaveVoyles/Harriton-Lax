@@ -7,6 +7,9 @@ Principles of communication, individual mastery, and coordinated team defense.
 - [Defensive Concepts & Roles](defensive-concepts.md) – Fundamental principles and personnel archetypes.
 - [Defensive Sliding and Recovery](sliding-and-recovery.md) – Support mechanics and rotations.
 - [On-Ball Defense Mechanics](on-ball-defense-mechanics.md) – V-holds and approach angles.
+- [Close Defense Mastery](close-defense-mastery.md) – Close defense discipline at crease and GLE.
+- [Communication Glossary](communication-glossary.md) – Complete defensive call reference.
+- [Defensive Approach Angles](defensive-approach-angles.md) – Geometry of closing space on dodgers.
 
 ## 🧤 Goalkeeping
 
@@ -23,4 +26,4 @@ Principles of communication, individual mastery, and coordinated team defense.
 
 ## 🎥 Video Analysis
 
-- [Individual Defense Mastery](videos-to-learn-from/individual-defense-mastery.md) – Elite footwork and checks breakdown.
+- [Aidan Maguire SSDM Breakdown](videos-to-learn-from/aidan-maguire-ssdm-breakdown.md) – Elite defensive footwork and positioning analysis.

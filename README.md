@@ -72,6 +72,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Zone Beaters](offense/how-to-beat-zone-defense.md) – Dismantling defensive shells.
 - [Settled Offensive Sets](offense/settled-offensive-sets.md) – Named formations (1-4-1, 2-2-2, 1-3-2) with player roles and scoring options.
 - [Transition Offense Philosophy](offense/transition-offense-philosophy.md) – Push-or-settle reads, fast break lanes, and the secondary break window.
+- [Advanced Offensive Sets](offense/advanced-offensive-sets.md) – Mumbo, Invert, and Motion sets for exploiting defensive weaknesses.
 - [Off-Ball Movement](offense/off-ball-movement.md) – Purposeful cutting patterns, timing, and spacing to create scoring opportunities without the ball.
 - [Ball Movement Philosophy](offense/ball-movement-philosophy.md) – Patience, passing tempo, and the "one-more" principle for higher-percentage shots.
 - [Off-Ball Movement & Cutting](offense/off-ball-movement.md) – Cutting patterns, V-cuts, timing, and spacing principles.
@@ -96,6 +97,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 #### 🤼 [Face-off & Special Teams](plays/fundamentals/face-off-wing-play.md)
 
 - [Face-off Wing Play](plays/fundamentals/face-off-wing-play.md) – Strategic positioning at the draw.
+- [Dead-Ball Restart Plays](plays/fundamentals/dead-ball-restarts.md) – Endline and sideline restart plays for free possessions.
 - [Dead-Ball Restarts](plays/fundamentals/dead-ball-restarts.md) – Endline and sideline restart plays.
 - [2026 Playbook](plays/playbook-2026.md) – Full season strategy document.
 
