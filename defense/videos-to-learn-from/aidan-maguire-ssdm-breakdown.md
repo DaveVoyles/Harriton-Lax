@@ -43,13 +43,13 @@ This breakdown focuses on the elite individual mechanics required to become a lo
 - **Discipline ⚖️:** Only throw checks when you have "body on body" or the dodger's hands are exposed. Avoid "home run" checks that leave you off-balance.
 - **Communication 🗣️:** Loudly declaring your position ("Ball!", "Hold!") helps the off-ball defense coordinate support.
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 
 - Reduced high-percentage shots on goal.
 - Increased turnovers through disciplined pressure and stick checks.
 - Better team-wide defensive cohesion and fewer "unsupported" breakdowns.
 
-## 📋 Coaching
+## 📋 Coaching Points
 
 - Drill "Approach to Breakdown" repetitively with 1v1 scenarios focusing only on footwork.
 - Emphasize "Short-Short-Long" stepping patterns during recovery sprints.

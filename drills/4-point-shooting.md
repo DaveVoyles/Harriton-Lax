@@ -22,6 +22,6 @@
    (1)------|-------(2)
 ```
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 - Conditioning while maintaining shooting form.
 - High-rep accuracy from all angles.

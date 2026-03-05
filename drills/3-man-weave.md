@@ -27,10 +27,10 @@
 - **Lead the Pass:** Don't throw to where they are; throw to where they are going.
 - **Call Names:** Communication reduces dropped balls.
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 - Improved full-speed stick handling.
 - Reduced transition unforced errors.
 
-## 📋 Coaching
+## 📋 Coaching Points
 - Ensure players are following their pass (running behind).
 - Use tennis balls if they are dropping too many reps to emphasize soft hands.

@@ -44,13 +44,13 @@ Clearing is the tactical bridge between a successful defensive stop and an offen
 - **Vision 👁️:** Scan the entire field, not just the nearest player.
 - **Communication 🗣️:** "Clear!", "Over!", "Hole!", "Middle!"
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 
 - Efficient transition from defense to offense.
 - Minimal turnovers in the defensive half.
 - Exploiting riding teams with fast-break scoring opportunities.
 
-## 📋 Coaching
+## 📋 Coaching Points
 
 - Drill "Goalie to Wing" outlets repeatedly with varying pressure.
 - Emphasize the "sprint to the GLE" for close defenders to stretch the attack.

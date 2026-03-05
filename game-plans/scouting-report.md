@@ -39,13 +39,13 @@ The Opposition Scouting Report provides a structured framework for analyzing upc
 - **Communication 🗣️:** Ensure all players understand the 'Top 3' keys to victory based on the scouting report.
 - **Adaptability 📐:** Be prepared to adjust the game plan if the opponent deviates from identified tendencies.
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 
 - Increased team preparedness for specific opponent threats.
 - High-level execution of tactical adjustments during the game.
 - Improved overall win probability through strategic preparation.
 
-## 📋 Coaching
+## 📋 Coaching Points
 
 - Review the scouting report with the team at least 48 hours prior to game time.
 - Use the report to assign specific defensive matchups for long-poles.

@@ -76,13 +76,13 @@ Build consistent goalie fundamentals: ready stance, angle play, stepping to the 
 
 ---
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 
 - Improved save percentage through better positional discipline and stepping mechanics.
 - Fewer "all-hands" saves and better cushioning (soft hands).
 - Faster transition and more possessions via rebound control and efficient outlets.
 
-## 📋 Coaching Cues
+## 📋 Coaching Points
 
 - **"Feet first!"** and **"Head to the ball!"**
 - **If hands drop:** Pause and reset stance before continuing.

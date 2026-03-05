@@ -27,5 +27,5 @@
 
 ### ✅ Phase 5: Cool Down & Recap (1:50 - 2:00)
 
-- Review [Defense Rules](../defense/defense-rules.md) for transition recovery.
+- Review [Defensive Concepts](../defense/defensive-concepts.md) for transition recovery.
 - Stretching and equipment check.

@@ -35,7 +35,7 @@
 - **Be a Vacuum:** See ball, get ball. Do not wait for it to come to you.
 - **Body First:** In a 50/50 ball, put your body between the opponent and the ball.
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 
 - Increased possession percentage from the X.
 - Strategic control of the midfield transition.

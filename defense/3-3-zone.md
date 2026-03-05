@@ -39,13 +39,13 @@ The 3-3 Zone is a high-pressure defensive system designed to disrupt the opponen
 - **Communication 🗣️:** 'Stay High!', 'I have got low crease!', 'Ball is at point!'
 - **Spacing 📐:** Maintain enough distance to cover the passing lanes between the two layers.
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 
 - Reduced high-percentage shots from the crease area.
 - Forced outside shots from distance.
 - Increased turnovers due to disrupted offensive flow.
 
-## 📋 Coaching
+## 📋 Coaching Points
 
 - Drill the 'layer transition' where the offense moves from high to low to test the hand-off between defenders.
 - Emphasize stick positioning to take away 'skip passes' through the 3-3 layers.

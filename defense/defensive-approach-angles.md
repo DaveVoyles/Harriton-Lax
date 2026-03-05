@@ -44,13 +44,13 @@ The "approach" is the most critical second in a defensive possession. This strat
 - **Discipline ⚖️:** "Feet first, hands second." If your feet are out of position, your stick won't save you.
 - **Communication 🗣️:** "I've got ball!", "I'm topside!", "Drive him down!"
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 
 - Neutralization of primary dodge threats without requiring sliding.
 - Forced low-angle shots from the wings and alleys.
 - Improved defensive stability and fewer "on-ball" breakdowns.
 
-## 📋 Coaching
+## 📋 Coaching Points
 
 - Drill the "Approach to X" where defenders must sprint to a cone and breakdown in a proper stance.
 - Use "Topside Seals" 1v1 drills focusing only on the first 3 steps of a dodge.

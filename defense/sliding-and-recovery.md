@@ -44,13 +44,13 @@ Defensive sliding and recovery is the backbone of any successful team defense. T
 - **Communication 🗣️:** "I've got ball!", "I'm hot!", "I'm two!", "Fire!", "Recover!"
 - **Spacing 📐:** Maintain tight cohesion to minimize passing lanes during rotations.
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 
 - Neutralization of primary offensive dodgers.
 - Coordinated response to defensive breakdowns.
 - Minimal high-percentage shots from the crease.
 
-## 📋 Coaching
+## 📋 Coaching Points
 
 - Drill the '4-man rotation' frequently to build muscle memory for slide-and-fill sequences.
 - Emphasize the 'sprint to the hole' recovery path for on-ball defenders.

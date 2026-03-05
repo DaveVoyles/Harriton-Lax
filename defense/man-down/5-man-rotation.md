@@ -44,13 +44,13 @@ Man-down defense (MDD) requires elite communication, discipline, and "string" lo
 - **Discipline ⚖️:** Avoid throwing checks that leave you out of position. Your body is your primary tool in MDD.
 - **Efficiency 📐:** Move with purpose. Small, efficient steps are better than long, lunging sprints.
 
-## ✅ Outcomes
+## ✅ Desired Outcomes
 
 - Neutralization of the EMO (Man-Up) scoring threat.
 - Forced outside, low-percentage shots for the goalie to save.
 - Improved defensive cohesion and trust between teammates.
 
-## 📋 Coaching
+## 📋 Coaching Points
 
 - Drill the "4-man box" rotation repetitively without a ball to build muscle memory.
 - Emphasize "Sticks up!" during every live MDD scenario.
