@@ -14,3 +14,7 @@ Detailed diagrams and flow for our clearing game and riding strategy.
 ---
 
 _Refer to the Google Drive link for the full PDF diagrams._
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

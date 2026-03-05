@@ -25,3 +25,7 @@
 ### 🧠 Key Concepts
 - **Active Sticks:** Keep sticks in passing lanes, not on the man.
 - **Backside Awareness:** The '2' and '3' slide must anticipate the skip pass.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

@@ -39,3 +39,7 @@
 
 - Increased possession percentage from the X.
 - Strategic control of the midfield transition.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

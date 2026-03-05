@@ -41,3 +41,7 @@
   - Hydrate tonight — no heavy meals within 3 hours of game time.
 - **Captain's Talk:** Senior leadership addresses the team on focus and energy.
 - Equipment check and break.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

@@ -19,3 +19,7 @@
 ## 📋 Situation: Our Defense is Getting Beat 1v1 Top-Side
 - **Fix:** Shift to a [3-3 Zone Defense](../defense/README.md) flat-shell.
 - **Fix:** Adjust slide timing to 'Immediate' (Committed) rather than 'Read'.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

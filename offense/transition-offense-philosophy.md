@@ -155,3 +155,7 @@ Transition offense is the bridge between defense and settled attack. The first 8
 ---
 
 _Transition offense is where championships are won. Teams that push the ball score easy goals. Teams that settle every time are fighting uphill. Master the read, trust the system, and run._
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

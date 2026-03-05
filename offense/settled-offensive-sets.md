@@ -212,3 +212,7 @@ An asymmetric formation that creates a numbers advantage on one side of the fiel
 ---
 
 _Settled sets are the foundation. The [2-Man Game](mastering-the-2-man-game.md), [Mumbo picks](advanced-offensive-sets.md), and [Zone Beaters](how-to-beat-zone-defense.md) are the tools we use within them._
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

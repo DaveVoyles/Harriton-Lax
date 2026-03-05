@@ -55,3 +55,7 @@ Clearing is the tactical bridge between a successful defensive stop and an offen
 - Drill "Goalie to Wing" outlets repeatedly with varying pressure.
 - Emphasize the "sprint to the GLE" for close defenders to stretch the attack.
 - Use the [West Genny](../drills/west-genny-drill.md) drill to build muscle memory for transition decision-making.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

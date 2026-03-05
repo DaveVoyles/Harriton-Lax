@@ -55,3 +55,7 @@ This guide covers the fundamental mechanics of a high-level lacrosse shot. It fo
 
 ---
 *Note: This synopsis is based on First Class Lacrosse principles.*
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

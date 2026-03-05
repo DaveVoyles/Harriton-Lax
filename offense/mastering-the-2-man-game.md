@@ -56,3 +56,7 @@ The 2-man game (picks and screens) is the most effective way to force defensive 
 
 ---
 *Note: This synopsis is based on First Class Lacrosse principles.*
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

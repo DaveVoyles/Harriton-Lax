@@ -36,3 +36,7 @@
 - **Review:** Highlight 2–3 clips from practice (coach video) showing proper slides vs. blown rotations.
 - **Homework:** Each defender identifies one on-ball mechanic to work on before next practice from [On-Ball Defense Mechanics](../defense/on-ball-defense-mechanics.md).
 - Equipment check and break.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

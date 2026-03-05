@@ -28,3 +28,7 @@
 - **Drill:** Have players practice shooting without a ball to focus purely on mechanics.
 - **Feedback:** Watch for players who are using only their arms and encourage them to engage their core and hips.
 - **Progression:** Start with stationary shots and then move to shooting on the run.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

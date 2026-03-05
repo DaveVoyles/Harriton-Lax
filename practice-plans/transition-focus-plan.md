@@ -29,3 +29,7 @@
 
 - Review [Defensive Concepts](../defense/defensive-concepts.md) for transition recovery.
 - Stretching and equipment check.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

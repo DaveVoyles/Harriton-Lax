@@ -38,3 +38,7 @@
 - **Key Takeaway Discussion:** "What makes a quality shot vs. a forced shot?" Reinforce that assists matter as much as goals.
 - **Homework:** 50 wall ball reps each hand before next practice. Review [Shooting Mechanics Basics](../offense/shooting-mechanics-basics.md) for hand positioning cues.
 - Equipment check and break.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

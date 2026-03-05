@@ -50,3 +50,7 @@ The Opposition Scouting Report provides a structured framework for analyzing upc
 - Review the scouting report with the team at least 48 hours prior to game time.
 - Use the report to assign specific defensive matchups for long-poles.
 - Continuously update the report based on in-season performance and adjustments.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._
