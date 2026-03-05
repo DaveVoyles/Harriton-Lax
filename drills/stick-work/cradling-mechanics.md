@@ -1,6 +1,6 @@
 # 🎯 Cradling Mechanics (Ball Security)
 
-**Video Reference:** https://www.youtube.com/watch?v=tKagwJlSgwI
+**Video Reference:** [Cradling Mechanics Tutorial](https://www.youtube.com/watch?v=tKagwJlSgwI)
 
 🎯 **Overview**
 Develop efficient cradling that protects the stick, maintains speed, and keeps the ball secure under pressure.
