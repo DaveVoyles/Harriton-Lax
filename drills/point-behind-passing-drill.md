@@ -43,3 +43,7 @@ The Point-Behind drill focuses on passing and shooting from the "X" position (be
 - **Anticipation 🧠:** The feeder must throw the ball to where the receiver WILL be, not where they are.
 - **Efficiency ⏱️:** Minimize the time the ball spends in the stick during the catch-and-shoot transition.
 - **Communication 🗣️:** Standard calls like "Ball```bash
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

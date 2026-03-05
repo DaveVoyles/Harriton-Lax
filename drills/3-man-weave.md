@@ -34,3 +34,7 @@
 ## 📋 Coaching Points
 - Ensure players are following their pass (running behind).
 - Use tennis balls if they are dropping too many reps to emphasize soft hands.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

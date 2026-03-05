@@ -80,3 +80,7 @@ To create different learning environments, you can manipulate the drill in five 
 3. **Specific Motion Requirements:** Require the offense to execute a specific motion before attacking (e.g., up pick, down pick, shallow cuts, dodge-follow-float, or sweep-fade-flow). This helps the drill emulate your team's actual offensive system.
 4. **Skill Requirements:** Require players to practice specific individual skills within their motions (e.g., question mark out and throw back, no-look pass, or a look-back fake off a pick).
 5. **Defensive Pickup Location:** Instead of allowing defenders to drop back into the "hole," require them to step up and pick up the ball carrier at the midfield line. This prevents uncontested outside shots and forces the defense to apply early pressure.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

@@ -56,3 +56,7 @@ This drill, led by pro defenseman Tucker Durkin, focuses on the fundamental foot
 
 ---
 *Note: This synopsis is based on First Class Lacrosse principles.*
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

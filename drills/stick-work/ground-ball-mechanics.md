@@ -60,3 +60,7 @@ Train reliable ground balls with speed, body position, and immediate protection 
 - Cue: “Get low, run through.”
 - If players pop up early: require shoulder over the ball at scoop.
 - If ball bounces out: check bottom-hand position (should be lower for control).
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

@@ -43,3 +43,7 @@ Develop efficient cradling that protects the stick, maintains speed, and keeps t
 
 - If cradle is huge/loopy: reduce range and emphasize wrist-only motion.
 - If players stare at the stick: force eyes-up reps (call numbers/colors).
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

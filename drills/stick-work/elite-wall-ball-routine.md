@@ -26,3 +26,7 @@ Wall ball is the single best way to improve stick skills. This routine focuses o
 ### Phase 1: Basic Reps (50 each hand)
 - Traditional overhand passing and catching.
 - Focus on a clean release and catching the ball in
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

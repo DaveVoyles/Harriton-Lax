@@ -77,3 +77,7 @@ The primary purpose of this drill is to teach players how to handle multi-phase 
 - **Attack Topside (Offense from Low):** When starting from behind the goal, offensive players should try to attack topside to put pressure on the defense.
 - **Cover Skip Lanes (Defense):** During 4v3 rotations, the defender moving to the next man should run through the middle of the field to disrupt skip passes.
 - **Dodge and Slide (4v3):** In the 4v3 phase, use quick dodges to draw slides and create easy skip pass opportunities.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

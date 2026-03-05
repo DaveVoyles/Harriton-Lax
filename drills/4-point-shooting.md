@@ -25,3 +25,7 @@
 ## ✅ Desired Outcomes
 - Conditioning while maintaining shooting form.
 - High-rep accuracy from all angles.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

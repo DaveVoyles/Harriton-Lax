@@ -52,3 +52,7 @@ Proper passing involves a full-body motion, not just the arms. The goal is to cr
 - Watch for players who are only using their arms ("all-armsy").
 - Encourage players to step towards their target.
 - Emphasize the "push-pull" mechanic and the follow-through.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

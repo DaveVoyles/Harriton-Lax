@@ -56,3 +56,7 @@ This high-intensity drill combines dodging from the wing with deceptive shooting
 
 ---
 *Note: This synopsis is based on First Class Lacrosse principles.*
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

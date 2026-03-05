@@ -55,3 +55,7 @@ Improve catching consistency by training soft hands, stick presentation, and eye
 
 - If players “stab” at the ball: slow the pace and exaggerate the give.
 - If targets are late: require target shown before passer begins motion.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

@@ -68,3 +68,7 @@ Build consistent goalie fundamentals: ready stance, angle play, stepping to the 
 - Cue: “Feet first” and “Head to the ball.”
 - If hands drop: pause and reset stance before continuing.
 - If rebound pops out: emphasize cushioning (soft hands) and bringing it to the body.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._

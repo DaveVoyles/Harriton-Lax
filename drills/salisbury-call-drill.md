@@ -62,3 +62,7 @@ To expand on this drill and give the offense reps at moving the ball after drawi
 4. **Continuous Flow:** The new dodger attacks the opposite alley, forcing the defense to reset, communicate, and execute their slide package from the other side.
 
 This variation is excellent for teaching offensive players how to step away from pressure and keep the ball moving, while forcing the defense to handle continuous, side-to-side slide scenarios.
+
+---
+
+_Note: This document is part of the Harriton Lacrosse coaching playbook._
