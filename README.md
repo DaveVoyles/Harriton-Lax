@@ -43,6 +43,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - **[Offense Focus Plan](practice-plans/offense-focus-plan.md)** - 120-minute practice building dodging, shooting, and 2-man game execution.
 - **[Game-Week Prep Plan](practice-plans/gameweek-prep-plan.md)** - 120-minute game-week practice with scout looks, special teams, and situational scrimmage.
 - **[Transition Focus Plan](practice-plans/transition-focus-plan.md)** - 120-minute practice developing transition offense, riding, and fast break execution.
+- **[Conditioning & Fitness Plan](practice-plans/conditioning-and-fitness.md)** - In-season conditioning program with periodized weekly schedule, agility drills, and lacrosse-specific fitness work.
 - **[Player Development Pathway](practice-plans/player-development-pathway.md)** - Framework for progressing players from beginner/JV through varsity-ready with position-specific milestones.
 
 ### 📖 [Glossary](glossary.md)
