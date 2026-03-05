@@ -1,6 +1,6 @@
 # 🥍 Offensive Basics: Dodging Essentials
 
-**Video Reference:** [Dodging Essentials | First Class Lacrosse](https://www.youtube.com/watch?v=sz2KXVF8vmc)
+**Video Reference:** [10 Best Lacrosse Dodges to Make You Unguardable](https://www.youtube.com/watch?v=upVjyyIUqqU)
 
 ## 🎯 Overview
 

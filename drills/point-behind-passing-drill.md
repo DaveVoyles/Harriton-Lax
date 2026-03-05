@@ -1,6 +1,6 @@
 # 🥍 Point-Behind Passing & Shooting Drill
 
-**Video Reference:** [Point-Behind Drill | First Class Lacrosse](https://www.youtube.com/watch?v=JMSYMLeE0uQ)
+**Video Reference:** [Partner Passing Drill and Techniques | POWLAX](https://www.youtube.com/watch?v=b_ich-fBF-0)
 
 ## 🎯 Overview
 

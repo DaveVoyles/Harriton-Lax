@@ -1,6 +1,6 @@
 # 🥍 Opposition Scouting Report
 
-**Video Reference:** [Opposition Scouting Reference Video](https://www.youtube.com/watch?v=-xpNBfHYKqA)
+**Video Reference:** [How to Create a Lacrosse Scouting Report](https://www.youtube.com/watch?v=ykHt0hDh7ic)
 
 ## 🎯 Overview
 

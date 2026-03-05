@@ -1,6 +1,6 @@
 # 🥍 Offensive Basics: Shooting Mechanics
 
-**Video Reference:** [Shooting Mechanics | First Class Lacrosse](https://www.youtube.com/watch?v=HKqiTNTWXKo)
+**Video Reference:** [How To Master Your Shooting Form | Joe Walters](https://www.youtube.com/watch?v=ZDqQBn4qT7s)
 
 ## 🎯 Overview
 

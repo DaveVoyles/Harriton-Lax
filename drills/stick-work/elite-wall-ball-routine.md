@@ -1,6 +1,6 @@
 # 🥍 Elite Wall Ball Routine
 
-**Video Reference:** [Elite Wall Ball | First Class Lacrosse](https://www.youtube.com/watch?v=7U3CvElp0FU)
+**Video Reference:** [D1 Lacrosse Player Wall Ball Routine](https://www.youtube.com/watch?v=RLQB_hrszBw)
 
 ## 🎯 Overview
 

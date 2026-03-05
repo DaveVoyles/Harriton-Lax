@@ -1,6 +1,6 @@
 # 🎯 Cradling Mechanics (Ball Security)
 
-**Video Reference:** [Cradling Mechanics Tutorial](https://www.youtube.com/watch?v=tKagwJlSgwI)
+**Video Reference:** [How to Cradle in Lacrosse](https://www.youtube.com/watch?v=TqNg_SuMHic)
 
 🎯 **Overview**
 Develop efficient cradling that protects the stick, maintains speed, and keeps the ball secure under pressure.

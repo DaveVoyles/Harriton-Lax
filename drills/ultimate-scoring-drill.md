@@ -1,6 +1,6 @@
 # 🥍 The Ultimate Scoring Drill
 
-**Video Reference:** [The Ultimate Scoring Drill | First Class Lacrosse](https://www.youtube.com/watch?v=sz2KXVF8vmc)
+**Video Reference:** [Tucker Dordevic's Favorite Shooting Drill](https://www.youtube.com/watch?v=vDb4C2KsLaY)
 
 ## 🎯 Overview
 

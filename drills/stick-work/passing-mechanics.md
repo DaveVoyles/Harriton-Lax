@@ -1,6 +1,6 @@
 # 🎯 Passing Mechanics Drill
 
-**Video Reference:** [Passing Mechanics Tutorial](https://www.youtube.com/watch?v=pjWA9vyAhy8)
+**Video Reference:** [How To Pass in Lacrosse](https://www.youtube.com/watch?v=7VUU9bh5sws)
 
 🎯 **Overview**
 This drill focuses on the fundamental mechanics of passing a lacrosse ball accurately and efficiently.

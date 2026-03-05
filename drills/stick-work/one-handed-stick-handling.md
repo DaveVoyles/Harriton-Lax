@@ -1,6 +1,6 @@
 # 🥍 One-Handed Stick Handling Drill
 
-**Video Reference:** [One-Handed Stick Handling | First Class Lacrosse](https://www.youtube.com/watch?v=7YYHks-Vexs)
+**Video Reference:** [One Hand Low Cradle Drills | Chris Raichle](https://www.youtube.com/watch?v=Db2goSjKErU)
 
 ## 🎯 Overview
 

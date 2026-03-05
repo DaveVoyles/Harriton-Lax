@@ -1,6 +1,6 @@
 # 🎯 Catching Mechanics (Partner Passing)
 
-**Video Reference:** [Catching Mechanics Tutorial](https://www.youtube.com/watch?v=w8TsIB95aII)
+**Video Reference:** [How To Catch in Lacrosse](https://www.youtube.com/watch?v=E77P-cTFVC8)
 
 🎯 **Overview**
 Improve catching consistency by training soft hands, stick presentation, and eye discipline.

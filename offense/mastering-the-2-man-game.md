@@ -1,6 +1,6 @@
 # 🥍 Mastering the 2-Man Game
 
-**Video Reference:** [How to Master the 2-Man Game | First Class Lacrosse](https://www.youtube.com/watch?v=8U6R4KEoEmc)
+**Video Reference:** [Stanwick Brothers Two Man Game Tutorial](https://www.youtube.com/watch?v=GrhHfQCv7GE)
 
 ## 🎯 Overview
 
