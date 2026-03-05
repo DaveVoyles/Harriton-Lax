@@ -30,11 +30,16 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [GOALIE - Goalkeeper Mastery](defense/goalie-mastery.md) - Stance, saves, communication, and clearing.
 - [Cradling Mechanics](drills/stick-work/cradling-mechanics.md) - Ball protection and control.
 - [Point-Behind Passing & Shooting](drills/point-behind-passing-drill.md) - Timing and finishing from X.
+- [1v1 Drill](drills/1v1-drill.md) - Fundamental 1v1 matchup drill from wing, top, and X positions.
+- [Face-Off Fundamentals](drills/face-off-fundamentals.md) - Stance, grip, clamp/plunger/rake techniques, and progressive drills.
 
 ### 📋 [Practice & Game Planning](practice-plans/template.md)
 
 - **[Practice Plan Template](practice-plans/template.md)** - Structured daily schedule.
 - **[Game Plan Template](game-plans/template.md)** - Scouting reports and strategy keys.
+- **[Defense Focus Plan](practice-plans/defense-focus-plan.md)** - 120-minute practice emphasizing team defense, sliding, and communication.
+- **[Offense Focus Plan](practice-plans/offense-focus-plan.md)** - 120-minute practice building dodging, shooting, and 2-man game execution.
+- **[Game-Week Prep Plan](practice-plans/gameweek-prep-plan.md)** - 120-minute game-week practice with scout looks, special teams, and situational scrimmage.
 
 ### 🧠 Strategic Foundations
 
