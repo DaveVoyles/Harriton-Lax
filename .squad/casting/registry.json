@@ -1,0 +1,46 @@
+{
+  "agents": {
+    "mcnulty": {
+      "created_at": "2026-03-05T16:48:56.034Z",
+      "persistent_name": "McNulty",
+      "universe": "The Wire",
+      "status": "active"
+    },
+    "stringer": {
+      "created_at": "2026-03-05T16:48:56.034Z",
+      "persistent_name": "Stringer",
+      "universe": "The Wire",
+      "status": "active"
+    },
+    "lester": {
+      "created_at": "2026-03-05T16:48:56.034Z",
+      "persistent_name": "Lester",
+      "universe": "The Wire",
+      "status": "active"
+    },
+    "omar": {
+      "created_at": "2026-03-05T16:48:56.034Z",
+      "persistent_name": "Omar",
+      "universe": "The Wire",
+      "status": "active"
+    },
+    "bunk": {
+      "created_at": "2026-03-05T16:48:56.034Z",
+      "persistent_name": "Bunk",
+      "universe": "The Wire",
+      "status": "active"
+    },
+    "scribe": {
+      "created_at": "2026-03-05T16:48:56.034Z",
+      "persistent_name": "Scribe",
+      "universe": "The Wire",
+      "status": "active"
+    },
+    "ralph": {
+      "created_at": "2026-03-05T16:48:56.034Z",
+      "persistent_name": "Ralph",
+      "universe": "The Wire",
+      "status": "active"
+    }
+  }
+}

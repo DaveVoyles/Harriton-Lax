@@ -50,6 +50,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Close Defense Mastery](defense/close-defense-mastery.md) – Crease and GLE discipline.
 - [Ram Defense](defense/ram-defense.md) – Program-specific recovery rules.
 - [Goalie Training](defense/goalie-training.md) – Save mechanics and clearing.
+- [Defensive Communication Glossary](defense/communication-glossary.md) - Complete reference of on-ball, slide, off-ball, and situational defensive calls.
 
 #### 🏹 [Offensive Philosophy](offense/README.md)
 
@@ -82,7 +83,6 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Defensive Sliding and Recovery](defense/sliding-and-recovery.md) - Mechanics of providing support to beaten on-ball defenders and rotations.
 - [Ram Defense & Core Rules](defense/ram-defensive-principles.md) - Consolidated manual for the Ram defensive set and general defensive principles.
 - [Defensive Concepts & Roles](defense/defensive-concepts.md) - Fundamental defensive principles and personnel archetypes.
-- [Defensive Communication Glossary](defense/communication-glossary.md) - Complete reference of on-ball, slide, off-ball, and situational defensive calls.
 - [Aidan Maguire SSDM Breakdown](defense/videos-to-learn-from/aidan-maguire-ssdm-breakdown.md) - Analysis of elite defensive footwork and positioning by Aidan Maguire.
 - [Defensive Approach Angles](defense/defensive-approach-angles.md) - Strategies for closing space and neutralizing dodgers through geometry.
 - [5-Man Rotation (MDD)](defense/man-down/5-man-rotation.md) - Man-down defensive rotation strategy for protecting the "house".

@@ -24,14 +24,17 @@ The Point-Behind drill focuses on passing and shooting from the "X" position (be
 ## 🏃 Execution Principles
 
 ### Phase 1: The Set-Up
+
 - The feeder at X gathers the ball and scans the slot.
 - The finisher initiates a cut from the wing or high-to-low toward the middle.
 
 ### Phase 2: The Feed
+
 - The feeder delivers a precise, chest-high pass to the finisher'\''s outside hand.
 - The feeder must "lead" the receiver into space.
 
 ### Phase 3: The Finish
+
 - The finisher receives the ball and immediately executes a quick shot (minimal cradling).
 - Emphasize deception and changing the plane of the shot.
 

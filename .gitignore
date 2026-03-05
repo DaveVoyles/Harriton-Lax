@@ -1,1 +1,5 @@
 copilot-agents-guide.md
+node_modules
+# Squad: ignore generated logs
+.squad/orchestration-log/
+.squad/log/
