@@ -9,7 +9,7 @@ Master list of our offensive sets, defensive rotations, clears, and rides.
 
 ## 🧱 Faceoffs
 
-- **[Dead Ball Restarts](../faceoffs/dead-ball-restarts.md)** - Substitutions, quick whistles, and set pieces.
+- **[Dead Ball Restarts](dead-ball-restarts.md)** - Substitutions, quick whistles, and set pieces.
 - **[Face-off Wing Play](../faceoffs/face-off-wing-play.md)** - Wing responsibilities and win-the-50/50 habits.
 
 ## Strategic Hubs
