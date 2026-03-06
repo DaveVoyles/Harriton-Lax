@@ -1,5 +1,1 @@
-{
-  "devDependencies": {
-    "@bradygaster/squad-cli": "^0.8.20"
-  }
-}
+{\n  "version": "1.0.0",\n  "devDependencies": {\n    "@bradygaster/squad-cli": "^0.8.20"\n  }\n}
