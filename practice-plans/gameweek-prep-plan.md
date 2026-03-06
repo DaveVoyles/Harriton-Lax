@@ -20,7 +20,7 @@
 
 - **EMO (Man-Up) Reps (10 min):** Run the 1-3-2 and 2-2-2 EMO sets from [Special Teams Strategy](../plays/special-teams.md). Emphasize ball movement — minimum 3 passes before any shot. The extra man advantage is wasted if you force early shots.
 - **MDD (Man-Down) Reps (10 min):** Rotate the MDD unit through the 5-man shell. Practice collapsing on inside feeds and recovering to shooters. Communication is everything — "I've got ball!", "Shift left!", "Crash crease!"
-- **Face-Off Reps (10 min):** FOGO and wing players run live face-offs at the midfield stripe. Alternate between clamp-and-direct and rake-and-exit techniques. Wing players practice the break — sprint to the ball-side hash and create a numeric advantage on ground balls. Reference [Face-Off Wing Play](../plays/fundamentals/face-off-wing-play.md) for positioning assignments.
+- **Face-Off Reps (10 min):** FOGO and wing players run live face-offs at the midfield stripe. Alternate between clamp-and-direct and rake-and-exit techniques. Wing players practice the break — sprint to the ball-side hash and create a numeric advantage on ground balls. Reference [Face-Off Wing Play](../faceoffs/face-off-wing-play.md) for positioning assignments.
 
 ### ⚔️ Phase 4: Situational Scrimmage & Rides/Clears (1:05 - 1:50)
 

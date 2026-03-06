@@ -13,7 +13,7 @@ Face-offs are possession battles that directly impact time of attack, momentum, 
 
 1. **Stance Mastery:** Develop a consistent, legal, and explosive pre-whistle stance that gives the FOGO the best chance to win the clamp.
 2. **Technique Repertoire:** Build proficiency in the three primary face-off moves (clamp, plunger, rake) and their counters so the FOGO can adapt to any opponent.
-3. **Wing Integration:** Coordinate the FOGO exit with wing player positioning so possession is secured quickly, even on 50/50 ground balls. Reference [Face-Off Wing Play](../plays/fundamentals/face-off-wing-play.md).
+3. **Wing Integration:** Coordinate the FOGO exit with wing player positioning so possession is secured quickly, even on 50/50 ground balls. Reference [Face-Off Wing Play](../faceoffs/face-off-wing-play.md).
 
 ## ⚙️ Setup
 
@@ -65,7 +65,7 @@ The rake is a finesse move that relies on speed and timing rather than brute str
 
 ### Wing Play Integration
 
-Per [Face-Off Wing Play](../plays/fundamentals/face-off-wing-play.md):
+Per [Face-Off Wing Play](../faceoffs/face-off-wing-play.md):
 
 - **Ball-Side Wing:** Sprints to the nearest hash mark on the whistle. First priority is to secure any loose ball that comes to your side. Second priority is to provide an outlet pass option for the FOGO.
 - **Off-Side Wing:** Holds position for one beat, then reads the ball direction. If the FOGO wins cleanly, release downfield for a transition opportunity. If the ball is loose, crash to the ball.

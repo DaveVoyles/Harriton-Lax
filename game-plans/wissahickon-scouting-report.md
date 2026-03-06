@@ -66,7 +66,7 @@ All special teams schemes follow the [Special Teams Strategy](../plays/special-t
 - **Face-offs:**
   - Start with the **clamp** as the primary move to establish early possession.
   - Vary technique (rake, plunger) based on what the opposing FOGO shows.
-  - Wings must execute per the [Face-off Wing Play](../plays/fundamentals/face-off-wing-play.md) guide — ground ball positioning and box-out technique are the priority.
+  - Wings must execute per the [Face-off Wing Play](../faceoffs/face-off-wing-play.md) guide — ground ball positioning and box-out technique are the priority.
 - **EMO (Man-Up Offense):**
   - Run the primary EMO set from the [Special Teams doc](../plays/special-teams.md).
   - Emphasis on ball movement speed — the extra pass creates the open look.

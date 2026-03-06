@@ -7,10 +7,10 @@ Master list of our offensive sets, defensive rotations, clears, and rides.
 - **[Playbook 2026 v1.1](playbook-2026.md)** - Full season strategy.
 - **[Rides & Clears](rides-and-clears.md)** - Diagrams and transition flow.
 
-## 🧱 Fundamentals
+## 🧱 Faceoffs
 
-- **[Dead Ball Restarts](fundamentals/dead-ball-restarts.md)** - Substitutions, quick whistles, and set pieces.
-- **[Face-off Wing Play](fundamentals/face-off-wing-play.md)** - Wing responsibilities and win-the-50/50 habits.
+- **[Dead Ball Restarts](../faceoffs/dead-ball-restarts.md)** - Substitutions, quick whistles, and set pieces.
+- **[Face-off Wing Play](../faceoffs/face-off-wing-play.md)** - Wing responsibilities and win-the-50/50 habits.
 
 ## Strategic Hubs
 

@@ -1,4 +1,4 @@
-# 🥍 Fundamentals
+# 🥍 Faceoffs
 
 Core building blocks every player must master before running complex sets.
 

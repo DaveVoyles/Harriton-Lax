@@ -91,11 +91,11 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Riding Strategy](rides-and-clears/riding.md) - Defensive transition and pressure to prevent efficient clearing.
 - [Clearing Strategy](rides-and-clears/clearing.md) - Tactical bridge between defense and offense to break riding pressure.
 
-#### 🤼 [Face-off & Special Teams](plays/fundamentals/face-off-wing-play.md)
+#### 🤼 [Face-off & Special Teams](faceoffs/face-off-wing-play.md)
 
-- [Face-off Wing Play](plays/fundamentals/face-off-wing-play.md) – Strategic positioning at the draw.
-- [Face-Off Strategy](plays/fundamentals/faceoff-strategy.md) – In-game face-off technique selection, wing coordination, and situational adjustments.
-- [Dead-Ball Restarts](plays/fundamentals/dead-ball-restarts.md) – Endline and sideline restart plays.
+- [Face-off Wing Play](faceoffs/face-off-wing-play.md) – Strategic positioning at the draw.
+- [Face-Off Strategy](faceoffs/faceoff-strategy.md) – In-game face-off technique selection, wing coordination, and situational adjustments.
+- [Dead-Ball Restarts](faceoffs/dead-ball-restarts.md) – Endline and sideline restart plays.
 - [2026 Playbook](plays/playbook-2026.md) – Full season strategy document.
 
 ### 📖 [Defense Strategy Catalog](defense/README.md)
