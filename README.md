@@ -97,6 +97,9 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 - [Face-Off Strategy](faceoffs/faceoff-strategy.md) – In-game face-off technique selection, wing coordination, and situational adjustments.
 - [Dead-Ball Restarts](plays/dead-ball-restarts.md) – Endline and sideline restart plays.
 - [2026 Playbook](plays/playbook-2026.md) – Full season strategy document.
+- [22 Dog](plays/22-dog.md) - 2-2-2 settled set for 2-man game advantages.
+- [22 Cat](plays/22-cat.md) - 2-2-2 motion set with circular "wheel" rotations.
+- [Biggie](plays/biggie.md) - High-side pick set to exploit defensive mismatches.
 
 ### 📖 [Defense Strategy Catalog](defense/README.md)
 

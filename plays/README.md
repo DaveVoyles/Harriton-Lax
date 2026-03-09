@@ -7,6 +7,12 @@ Master list of our offensive sets, defensive rotations, clears, and rides.
 - **[Playbook 2026 v1.1](playbook-2026.md)** - Full season strategy.
 - **[Rides & Clears](rides-and-clears.md)** - Diagrams and transition flow.
 
+## 🏹 Offensive Plays
+
+- **[22 Dog](22-dog.md)** - 2-2-2 settled set focused on 2-man game and spacing.
+- **[22 Cat](22-cat.md)** - 2-2-2 motion set with circular wheel rotations.
+- **[Biggie](biggie.md)** - Big-Little pick set to exploit defensive mismatches.
+
 ## 🧱 Faceoffs
 
 - **[Dead Ball Restarts](dead-ball-restarts.md)** - Substitutions, quick whistles, and set pieces.
