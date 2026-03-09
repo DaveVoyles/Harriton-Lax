@@ -1,3 +1,7 @@
+# 🥍 Biggie
+
+**Video Reference:** [Biggie](https://youtu.be/6jWkw40ti4U)
+
 ## 🎯 Overview
 
 Biggie is a heavy Big-Little pick set designed to exploit defensive mismatches, specifically targeting short-stick defenders by involving them in 2-man actions with primary dodgers.
