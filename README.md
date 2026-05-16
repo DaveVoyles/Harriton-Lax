@@ -4,7 +4,7 @@ Welcome to the central coaching repository for the **Harriton High School Boy's 
 
 **Head Coach:** Cassidy Higdon
 
-🌐 **Website:** [harritonrams.digitalsports.com](https://harritonrams.digitalsports.com/)
+🌐 **Website:** [harritonlacrosse.com](https://harritonlacrosse.com/) · [Source](https://github.com/DaveVoyles/Harriton-Lax-Website)
 
 ## 🔗 External Resources
 
