@@ -41,7 +41,14 @@ jobs:
       - name: Merge dev → preview (strip forbidden paths)
         if: ${{ inputs.dry_run == 'false' }}
         run: |
-          git checkout preview
+          # checkout -B alone only moves the branch ref/HEAD, not the working
+          # tree -- reset --hard + clean -fd is what actually discards any
+          # dirty/stale state, and merge --abort clears a leftover MERGE_HEAD.
+          # All guard against state left behind by an interrupted prior run
+          # on this persistent self-hosted runner's shared workspace
+          # (impossible on the fresh ephemeral VM this workflow ran on before).
+          git merge --abort 2>/dev/null || true
+          git checkout -B preview origin/preview && git reset --hard origin/preview && git clean -fd
           git merge origin/dev --no-commit --no-ff -X theirs || true
 
           # Strip forbidden paths from merge commit
@@ -91,7 +98,7 @@ jobs:
 
       - name: Validate preview is release-ready
         run: |
-          git checkout preview
+          git checkout -B preview origin/preview && git reset --hard origin/preview && git clean -fd
           VERSION=$(node -e "console.log(require('./package.json').version)")
           if ! grep -q "## \[$VERSION\]" CHANGELOG.md 2>/dev/null; then
             echo "::error::Version $VERSION not found in CHANGELOG.md — update before releasing"
@@ -110,7 +117,8 @@ jobs:
       - name: Merge preview → main
         if: ${{ inputs.dry_run == 'false' }}
         run: |
-          git checkout main
+          git merge --abort 2>/dev/null || true
+          git checkout -B main origin/main && git reset --hard origin/main && git clean -fd
           git merge origin/preview --no-ff -m "chore: promote preview → main (v$(node -e "console.log(require('./package.json').version)"))"
           git push origin main
           echo "✅ Pushed main — squad-release.yml will tag and publish the release"

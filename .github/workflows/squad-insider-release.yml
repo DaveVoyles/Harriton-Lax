@@ -41,6 +41,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # This now runs on a persistent self-hosted runner, so delete any
+          # leftover local tag from an interrupted prior run first -- git
+          # tag -a fails outright on a name collision otherwise, unlike a
+          # fresh ephemeral VM where no such leftover could exist.
+          git tag -d "${{ steps.version.outputs.insider_tag }}" 2>/dev/null || true
           git tag -a "${{ steps.version.outputs.insider_tag }}" -m "Insider Release ${{ steps.version.outputs.insider_tag }}"
           git push origin "${{ steps.version.outputs.insider_tag }}"
 

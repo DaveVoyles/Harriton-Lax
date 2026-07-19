@@ -19,7 +19,12 @@ concurrency:
 
 jobs:
   build:
-    runs-on: [self-hosted, macOS, ARM64]
+    # Stays on ubuntu-latest: actions/upload-pages-artifact shells out to
+    # system tar with GNU-tar-specific flags, and this Mac Mini's tar is
+    # BSD/libarchive (confirmed via `tar --version`) -- would hard-fail the
+    # Pages artifact upload. Low-frequency job (docs/** pushes to preview
+    # only), not worth chasing a GNU-tar workaround for the minutes savings.
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
@@ -40,7 +45,7 @@ jobs:
 
   deploy:
     needs: build
-    runs-on: [self-hosted, macOS, ARM64]
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
