@@ -12,7 +12,13 @@ permissions:
 
 jobs:
   test:
-    runs-on: [self-hosted, macOS, ARM64]
+    # Stays on ubuntu-latest: this job runs `node --test` directly against
+    # PR-branch test files, and this repo is public with an unfiltered
+    # pull_request trigger -- on self-hosted, a fork PR's own test file
+    # content would execute on personal infrastructure. No cost benefit to
+    # self-hosting here anyway: public repos get unlimited free GitHub-hosted
+    # Actions minutes, so this was never actually saving anything.
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
