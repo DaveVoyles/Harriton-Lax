@@ -1,0 +1,4 @@
+{
+  "name": "Harriton-Lax portable cloud",
+  "install": "bash scripts/setup-cursor-cloud.sh"
+}
